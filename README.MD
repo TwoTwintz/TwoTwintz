@@ -9,7 +9,7 @@
 <body>
 
 <h2>How to contact me</h2>
-<p>Discord 📝 : </p>
+<p>Discord 📝 : twotwintz</p>
 
 </body>
 
